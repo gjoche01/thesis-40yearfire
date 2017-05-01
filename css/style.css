@@ -24,6 +24,10 @@ body {
     text-align: center;
     font-size: 50px;
 }
+.mobile_landing_page { 
+  display: none;
+
+}
 .not_landing_page {
     width: 100%;
     height: 100%;
@@ -153,7 +157,11 @@ h2 {
     padding-right: 0%;
   }
   .landing_page{
-    background: url("../images/cover2-mobile.jpg") no-repeat top center;
+    display: none;
+  }
+  .mobile_landing_page {
+    display: block;
+    text-align: center;
   }
       
 } 

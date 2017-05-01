@@ -1,1 +1,1 @@
-# thesis
+This is a website for my senior honor thesis at Tufts University. I reported and wrote about an incinerator and made this website for the project. 
